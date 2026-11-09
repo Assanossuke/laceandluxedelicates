@@ -1,0 +1,1 @@
+Lace & Luxe Delicates front-end mockup. Open index.html in a browser. Includes supplied product images, mobile hero carousel (5 seconds), warm cocoa palette, category browsing and product detail interactions. Checkout/chat integrations are demo-only.
